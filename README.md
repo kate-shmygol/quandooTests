@@ -1,4 +1,4 @@
-## web-automation
+## Quandoo
 
 This is the web test automation project for testing https://www.quandoo.de/en/berlin website. It was built using Java 11, Selenium 4, JUnit 5, Selenide 6 frameworks.
 
